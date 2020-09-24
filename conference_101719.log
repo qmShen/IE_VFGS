@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.30)  24 SEP 2020 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.30)  24 SEP 2020 22:18
 entering extended mode
 **./conference_101719.tex
 (conference_101719.tex
@@ -326,39 +326,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \c@theorem=\count278
 
 (sections/Introduction.tex
-
-LaTeX Warning: Citation `wang2014visual' on page 1 undefined on input line 2.
-
-
-LaTeX Warning: Citation `tang2017efficient' on page 1 undefined on input line 2
-.
-
-
-LaTeX Warning: Citation `zheng2011learning' on page 1 undefined on input line 2
-.
-
-
-LaTeX Warning: Citation `liu2016smartadp' on page 1 undefined on input line 2.
-
-
-LaTeX Warning: Citation `zheng2010collaborative' on page 1 undefined on input l
-ine 2.
-
-
-LaTeX Warning: Citation `chen2015survey' on page 1 undefined on input line 2.
-
-
-LaTeX Warning: Citation `visualanalysis' on page 1 undefined on input line 2.
-
-
-LaTeX Warning: Citation `bigchanvis' on page 1 undefined on input line 2.
-
-
-LaTeX Warning: Citation `sz' on page 1 undefined on input line 7.
-
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7
 .
-("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd"
+ ("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd"
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 
@@ -370,25 +340,6 @@ File: pictures/Teaser.pdf Graphic file (type pdf)
 Package pdftex.def Info: pictures/Teaser.pdf  used on input line 45.
 (pdftex.def)             Requested size: 438.60315pt x 290.868pt.
 
-LaTeX Warning: Citation `qin2020making' on page 1 undefined on input line 57.
-
-
-LaTeX Warning: Citation `DBLP:conf/sigmod/DingHCC016' on page 1 undefined on in
-put line 57.
-
-
-LaTeX Warning: Citation `DBLP:journals/pvldb/KimBPIMR15' on page 1 undefined on
- input line 57.
-
-
-LaTeX Warning: Citation `park2016visualization' on page 1 undefined on input li
-ne 57.
-
-
-LaTeX Warning: Citation `battle2013dynamic' on page 1 undefined on input line 5
-7.
-
-
 Underfull \vbox (badness 2600) has occurred while \output is active []
 
  [1{C:/Users/Qiaomu/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
@@ -398,90 +349,7 @@ Underfull \vbox (badness 2600) has occurred while \output is active []
 Underfull \vbox (badness 3029) has occurred while \output is active []
 
 )
-(sections/RelatedWork.tex
-
-LaTeX Warning: Citation `chen2015survey' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `chen2015survey' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `liu2013vait' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `yang2016exploring' on page 2 undefined on input line 8
-.
-
-
-LaTeX Warning: Citation `chae2014public' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `xie2008kernel' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `borruso2008network' on page 2 undefined on input line 
-8.
-
-
-LaTeX Warning: Citation `guo2009flow' on page 2 undefined on input line 8.
-
-
-LaTeX Warning: Citation `wood2010visualisation' on page 2 undefined on input li
-ne 8.
-
-
-LaTeX Warning: Citation `von2015mobilitygraphs' on page 2 undefined on input li
-ne 8.
-
-
-LaTeX Warning: Citation `guo2011tripvista' on page 2 undefined on input line 8.
-
-
-
-LaTeX Warning: Citation `hurter2009fromdady' on page 2 undefined on input line 
-8.
-
-
-LaTeX Warning: Citation `ferreira2013vector' on page 2 undefined on input line 
-8.
-
-
-LaTeX Warning: Citation `rinzivillo2008visually' on page 2 undefined on input l
-ine 8.
-
-
-LaTeX Warning: Citation `von2015mobilitygraphs' on page 2 undefined on input li
-ne 8.
-
-
-LaTeX Warning: Citation `kruger2013trajectorylenses' on page 2 undefined on inp
-ut line 8.
-
-
-LaTeX Warning: Citation `ferreira2013visual' on page 2 undefined on input line 
-8.
-
-[2 <./pictures/Teaser.pdf>]
-
-LaTeX Warning: Citation `Spotfire' on page 3 undefined on input line 32.
-
-
-LaTeX Warning: Citation `Tableau' on page 3 undefined on input line 32.
-
-
-LaTeX Warning: Citation `chan2008maintaining' on page 3 undefined on input line
- 32.
-
-
-LaTeX Warning: Citation `yang2019vaite' on page 3 undefined on input line 32.
-
-
-LaTeX Warning: Citation `d3' on page 3 undefined on input line 33.
-
-
-LaTeX Warning: Citation `spark' on page 3 undefined on input line 33.
-
-
+(sections/RelatedWork.tex [2 <./pictures/Teaser.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./pictures/framework/framework.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
@@ -491,63 +359,6 @@ File: pictures/framework/framework.pdf Graphic file (type pdf)
 Package pdftex.def Info: pictures/framework/framework.pdf  used on input line 3
 8.
 (pdftex.def)             Requested size: 206.39685pt x 62.54384pt.
-
-LaTeX Warning: Citation `wood2010visualisation' on page 3 undefined on input li
-ne 48.
-
-
-LaTeX Warning: Citation `guo2009flow' on page 3 undefined on input line 48.
-
-
-LaTeX Warning: Citation `von2015mobilitygraphs' on page 3 undefined on input li
-ne 48.
-
-
-LaTeX Warning: Citation `andrienko2008spatio' on page 3 undefined on input line
- 48.
-
-
-LaTeX Warning: Citation `adrienko2010spatial' on page 3 undefined on input line
- 48.
-
-
-LaTeX Warning: Citation `battle2013dynamic' on page 3 undefined on input line 5
-8.
-
-
-LaTeX Warning: Citation `chen2014visual' on page 3 undefined on input line 58.
-
-
-LaTeX Warning: Citation `park2016visualization' on page 3 undefined on input li
-ne 58.
-
-
-LaTeX Warning: Citation `qin2020making' on page 3 undefined on input line 58.
-
-
-LaTeX Warning: Citation `DBLP:conf/sigmod/DingHCC016' on page 3 undefined on in
-put line 58.
-
-
-LaTeX Warning: Citation `DBLP:journals/pvldb/KimBPIMR15' on page 3 undefined on
- input line 58.
-
-
-LaTeX Warning: Citation `park2016visualization' on page 3 undefined on input li
-ne 63.
-
-
-LaTeX Warning: Citation `park2016visualization' on page 3 undefined on input li
-ne 63.
-
-
-LaTeX Warning: Citation `chan2008maintaining' on page 3 undefined on input line
- 79.
-
-
-LaTeX Warning: Citation `piringer2009multi' on page 3 undefined on input line 8
-1.
-
 ) (sections/ProblemFormulation.tex
 
 pdfTeX warning: pdflatex.exe (file ./pictures/problemsolveing/RenderedPixels.pd
@@ -602,18 +413,7 @@ msy/m/n/10 T\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; V\OT1/cmr/m/n/10 (\OMS/cmsy/m/n
  []
 
 
-LaTeX Warning: Citation `googlemap' on page 4 undefined on input line 42.
-
-
 LaTeX Warning: Citation `techreport' on page 4 undefined on input line 44.
-
-
-LaTeX Warning: Citation `feng2010matching' on page 4 undefined on input line 46
-.
-
-
-LaTeX Warning: Citation `mayorga2013splatterplots' on page 4 undefined on input
- line 46.
 
 
 LaTeX Warning: Citation `setcover' on page 4 undefined on input line 62.
@@ -654,21 +454,8 @@ File: pictures/problemsolveing/one_to_many.pdf Graphic file (type pdf)
 Package pdftex.def Info: pictures/problemsolveing/one_to_many.pdf  used on inpu
 t line 222.
 (pdftex.def)             Requested size: 232.19843pt x 81.02574pt.
-) (sections/Evaluation.tex
-
-LaTeX Warning: Citation `pt' on page 6 undefined on input line 3.
-
-
-LaTeX Warning: Citation `sz' on page 6 undefined on input line 4.
-
-
-LaTeX Warning: Citation `p3' on page 6 undefined on input line 4.
-
-
-LaTeX Warning: Citation `code' on page 6 undefined on input line 4.
-
-[6 <./pictures/problemsolveing/delta_motivation.pdf> <./pictures/problemsolvein
-g/one_to_many.pdf
+) (sections/Evaluation.tex [6 <./pictures/problemsolveing/delta_motivation.pdf>
+ <./pictures/problemsolveing/one_to_many.pdf
 
 pdfTeX warning: pdflatex.exe (file ./pictures/problemsolveing/one_to_many.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
@@ -677,16 +464,13 @@ pdfTeX warning: pdflatex.exe (file ./pictures/problemsolveing/one_to_many.pdf):
 LaTeX Warning: Citation `techreport' on page 7 undefined on input line 42.
 
 (sections/Evaluation_user_study.tex
-
-LaTeX Warning: Citation `tencentmap' on page 7 undefined on input line 3.
-
 <pictures/user_study/interface.pdf, id=225, 2511.3825pt x 1865.97125pt>
 File: pictures/user_study/interface.pdf Graphic file (type pdf)
 <use pictures/user_study/interface.pdf>
 Package pdftex.def Info: pictures/user_study/interface.pdf  used on input line 
 7.
 (pdftex.def)             Requested size: 232.19843pt x 172.51422pt.
-[7 <./pictures/user_study/interface.pdf>]
+ [7 <./pictures/user_study/interface.pdf>]
 <pictures/userstudy.pdf, id=242, 361.35pt x 252.945pt>
 File: pictures/userstudy.pdf Graphic file (type pdf)
 <use pictures/userstudy.pdf>
@@ -702,8 +486,9 @@ File: pictures/fshenzhen.pdf Graphic file (type pdf)
 <use pictures/fshenzhen.pdf>
 Package pdftex.def Info: pictures/fshenzhen.pdf  used on input line 124.
 (pdftex.def)             Requested size: 110.88062pt x 77.64938pt.
- [8 <./pictures/userstudy.pdf> <./pictures/fporto.pdf> <./pictures/fshenzhen.pd
-f>]
+
+[8 <./pictures/userstudy.pdf> <./pictures/fporto.pdf> <./pictures/fshenzhen.pdf
+>]
 <pictures/tporto.pdf, id=261, 328.22626pt x 236.885pt>
 File: pictures/tporto.pdf Graphic file (type pdf)
 <use pictures/tporto.pdf>
@@ -714,8 +499,12 @@ File: pictures/tshenzhen.pdf Graphic file (type pdf)
 <use pictures/tshenzhen.pdf>
 Package pdftex.def Info: pictures/tshenzhen.pdf  used on input line 157.
 (pdftex.def)             Requested size: 110.88062pt x 80.36201pt.
-))
-(sections/ConclusionFutureWork.tex) (conference_101719.bbl)
+)) (sections/ConclusionFutureWork.tex) (conference_101719.bbl
+Underfull \hbox (badness 6493) in paragraph at lines 160--165
+[]\OT1/ptm/m/n/8 R. Kr[]uger, D. Thom, M. W[]orner, H. Bosch, and T. Ertl,
+ []
+
+[9 <./pictures/tporto.pdf> <./pictures/tshenzhen.pdf>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -727,19 +516,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[9
+[10
 
- <./pictures/tporto.pdf> <./pictures/tshenzhen.pdf>] (conference_101719.aux)
+] (conference_101719.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4649 strings out of 480790
- 68234 string characters out of 2907052
- 315527 words of memory out of 3000000
- 20562 multiletter control sequences out of 15000+200000
- 586727 words of font info for 132 fonts, out of 3000000 for 9000
+ 4660 strings out of 480790
+ 68387 string characters out of 2907052
+ 316698 words of memory out of 3000000
+ 20572 multiletter control sequences out of 15000+200000
+ 587863 words of font info for 133 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,12n,37p,2148b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
@@ -759,9 +548,9 @@ c/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
 ram Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on conference_101719.pdf (9 pages, 6374175 bytes).
+Output written on conference_101719.pdf (10 pages, 6382025 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
+ 339 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
